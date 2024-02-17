@@ -1,0 +1,14 @@
+
+
+I am Rishav Kumar.
+
+I am initializing this repo as git
+
+Then will try to push the changes in github repo.
+
+Adding some files and pushing it into repo..
+
+
+Then will also work on how to use in present repo.
+
+
